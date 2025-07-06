@@ -101,11 +101,7 @@ beautifulsoup4
 ## ✍️ Author
 
 **Shivam Kumar**  
-B.Tech CSE | Google Cloud GenAI Intern  
-[LinkedIn](#) | [GitHub](#)
+B.Tech CSE  
+[LinkedIn](https://www.linkedin.com/in/shivam-kumar-49b954251/) | [GitHub](https://github.com/shivamkumar4756)
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License.
